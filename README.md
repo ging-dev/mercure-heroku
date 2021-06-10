@@ -11,8 +11,6 @@ It is especially useful to publish async and real-time updates of resources serv
 [![Coverage Status](https://coveralls.io/repos/github/dunglas/mercure/badge.svg?branch=master)](https://coveralls.io/github/dunglas/mercure?branch=master)
 [![Go Report Card](https://goreportcard.com/badge/github.com/dunglas/mercure)](https://goreportcard.com/report/github.com/dunglas/mercure)
 
-![Subscriptions Schema](spec/subscriptions.png)
-
 * [Getting started](https://mercure.rocks/docs/getting-started)
 * [Full documentation](https://mercure.rocks/docs)
 * [Demo](https://demo.mercure.rocks/)
